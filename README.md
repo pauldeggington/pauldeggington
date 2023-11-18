@@ -2,4 +2,3 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Vue.JS
 - 💞️ I’m looking to collaborate on Web Learning Projects
-- 📫 How to reach me mail@pauleggington.com
